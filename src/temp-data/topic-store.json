@@ -1,0 +1,11 @@
+{
+  "currentIndex": 0,
+  "lastSentDate": null,
+  "topics": [
+    "JavaScript Scope",
+    "Closures",
+    "Hoisting",
+    "this keyword",
+    "Event Loop"
+  ]
+}
